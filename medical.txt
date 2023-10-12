@@ -1,0 +1,12 @@
+__TRIGGERS___
+event معين بيحصل بعد action
+TRIGGERS is a database object that is associated
+with a table and automatically excutes a set of actions
+in response to a specific event or action 
+performed on the table
+
+___STORED PROCEDURES___
+precompiled and stored database objects that contain a set of SQL statements and procedural logic.
+ They are typically used to encapsulate and execute a series of database operations as a single unit.
+تشبه ال function in php 
+كل ما نعوز نستخدمها بنجيبها عن طريق اسمها 
